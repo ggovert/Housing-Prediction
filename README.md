@@ -1,1 +1,1 @@
-# Housing-Prediction
+# House Pricing Prediction
